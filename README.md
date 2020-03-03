@@ -2,11 +2,11 @@
 
 ## Sandra Froonjian
 
-### 2/28/2020
+### 3/1/2020
 
 ### **Excel Homework: Kickstart My Chart Conclusion/Analysis**
 
-Given the provided data, there are three conclusions we can draw about Kickstarter campaigns. First, we can conclude that the best categories to go into if you are starting a kickstarter campaign are theater and music, because theater has the most **amount** of successful campaigns, and music has the highest **percentage** of successful campaigns. The second conclusion we can draw is that the best subcategories to go into if you are starting a campaign are plays and rock because because plays have the most **amount** of successful campaigns, and music has the most amount of successful campaigns out of all the subcategories that have 100% success. Finally, we can conclude that the best time to start a kickstarter campaign is in May, since there are the most amount of successful then, and the worst time to start is in December, as more campaigns fail than succeed then.
+Given the provided data, there are three conclusions we can draw about Kickstarter campaigns. First, we can conclude that the best categories to go into if you are starting a kickstarter campaign are theater and music, because theater has the most **amount** of successful campaigns, and music has the highest **percentage** of successful campaigns. The second conclusion we can draw is that the best subcategory to go into if you are starting a campaign is plays because plays have the most amount of successful campaigns overall, and music has the most amount of successful campaigns out of the subcategories that have 100% success. Finally, we can conclude that the best time to start a kickstarter campaign is in May, since there are the most amount of successful campaigns then, and the worst time to start is in December, as more campaigns fail than succeed then.
 
 One limitation of this dataset is the small sample size. Only about 4,000 out of more than 300,000 projects were used in this study, which is less than 1.33% of the population size. Another limitation is that about 74% of the kickstarters are from the U.S., while the remaining 26% are from a variety of other countries, which means the data was not gathered evenly across the population.
 
