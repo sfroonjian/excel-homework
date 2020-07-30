@@ -4,20 +4,28 @@ Over $2 billion has been raised using the crowdfunding service, Kickstarter, but
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. The purpose of this analysis is to organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
+---
+
 ### How to View and Run the Code:
 
 Open up file in Excel. Read through each worksheet to view data tables and graphs. The code had already been run.
 
+---
+
 ### Data Collected:
 
-![](categories_pivotchart.png)
-![](subcategories_pivotchart.png)
-![](outcomes_per_month.png)
-![](outcomes_based_on_goals.png)
+![](screenshots/categories_pivotchart.png)
+![](screenshots/subcategories_pivotchart.png)
+![](screenshots/outcomes_per_month.png)
+![](screenshots/outcomes_based_on_goals.png)
+
+---
 
 ### Why the data is displayed this way:
 
 All of these charts were made using pivot tables. The first two charts are bar graphs because the x-axis values are qualitative data. The different colors of the bars represents the outcome of the campaign, so you can clearly see how many of each category/subcategory was successful or not. The "Outcome of Campaigns per Month" chart is a line graph because it's showing change over time, allowing you to see during what time of year campaigns are more likely to be a success or failure. The "Outcome of Campaign Based on Goal" chart is also a line graph because it allows you see how the success of campaigns changes depending on the goal that it set.
+
+---
 
 ### Kickstart Success Conclusion/Analysis:
 
